@@ -37,3 +37,6 @@ Antes de implementar esta infraestructura, verifica que cuentas con:
    ```bash
    git clone <url-de-tu-repositorio>
    cd <nombre-del-repositorio>
+
+
+<img width="1192" height="519" alt="image" src="https://github.com/user-attachments/assets/45849e82-6702-43c4-9061-30d5f9872072" />
