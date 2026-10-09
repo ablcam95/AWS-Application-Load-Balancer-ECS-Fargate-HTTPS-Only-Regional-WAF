@@ -35,8 +35,8 @@ Antes de implementar esta infraestructura, verifica que cuentas con:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone <url-de-tu-repositorio>
-   cd <nombre-del-repositorio>
+   git clone https://github.com/ablcam95/AWS-Application-Load-Balancer-ECS-Fargate-HTTPS-Only-Regional-WAF.git
+   cd AWS-Application-Load-Balancer-ECS-Fargate-HTTPS-Only-Regional-WAF
 
 
 <img width="1192" height="519" alt="image" src="https://github.com/user-attachments/assets/45849e82-6702-43c4-9061-30d5f9872072" />
